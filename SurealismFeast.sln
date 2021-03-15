@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SurealismFeast.Web", "SurrealismFeast\SurealismFeast.Web.csproj", "{3FBCDF88-A8EB-4416-938D-5A3FF0B76F1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FBCDF88-A8EB-4416-938D-5A3FF0B76F1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FBCDF88-A8EB-4416-938D-5A3FF0B76F1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FBCDF88-A8EB-4416-938D-5A3FF0B76F1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FBCDF88-A8EB-4416-938D-5A3FF0B76F1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11DDB8E3-D8FE-4900-BB52-A76FC2A58AD4}
+	EndGlobalSection
+EndGlobal
